@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6B64W26EGXt8hSzSrjuo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OlDcAst4QUs5vJRC8Mv6-1" target="6B64W26EGXt8hSzSrjuo-2" edge="1">
+        <mxCell id="6B64W26EGXt8hSzSrjuo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6B64W26EGXt8hSzSrjuo-1" target="6B64W26EGXt8hSzSrjuo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-1" value="省联社大数据基础平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -72,14 +72,8 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-27" value="JDBC数据连接访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="290" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OlDcAst4QUs5vJRC8Mv6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-1" target="OlDcAst4QUs5vJRC8Mv6-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="223" y="160" as="sourcePoint" />
-            <mxPoint x="223" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OlDcAst4QUs5vJRC8Mv6-1" value="" style="swimlane;startSize=0;strokeColor=#181616;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="200" height="200" as="geometry" />
+        <mxCell id="OlDcAst4QUs5vJRC8Mv6-1" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#f92424;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
