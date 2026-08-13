@@ -98,7 +98,7 @@
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="230" as="targetPoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
@@ -162,6 +162,9 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-19" value="星沙农商行本地内网环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="50" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-20" value="远程访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
+          <mxGeometry x="95" y="78" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-8" value="堡垒机机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="168" width="80" height="30" as="geometry" />
         </mxCell>
@@ -176,9 +179,6 @@
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-18" value="http访问web应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="378" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-20" value="远程访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="625" y="98" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-21" value="远程访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="108" width="70" height="30" as="geometry" />
