@@ -125,8 +125,10 @@
         <mxCell id="UEhg7XNukULp1xk8MtKE-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="210" width="46.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="60" width="200" height="200" as="geometry" />
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-1" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="200" height="200" as="geometry">
+            <mxRectangle x="50" y="60" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
