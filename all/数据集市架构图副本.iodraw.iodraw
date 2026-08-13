@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="mv5Pw759SI3B3TMShwm7-29" vertex="1">
-          <mxGeometry x="503" y="320" width="70" height="80" as="geometry" />
+          <mxGeometry x="500" y="320" width="73" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" parent="mv5Pw759SI3B3TMShwm7-29" vertex="1">
           <mxGeometry x="393" y="400" width="60" height="120" as="geometry" />
