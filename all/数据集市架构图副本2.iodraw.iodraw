@@ -231,9 +231,6 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
           <mxGeometry x="1501" y="554" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
-          <mxGeometry x="1510" y="600" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;strokeWidth=3;" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
           <mxGeometry x="810" y="150" width="880" height="750" as="geometry" />
         </mxCell>
@@ -290,6 +287,9 @@
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-24" value="省联社SmartBI星沙租户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-30" vertex="1">
           <mxGeometry x="114" y="502" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-30" vertex="1">
+          <mxGeometry x="700" y="472" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="mv5Pw759SI3B3TMShwm7-74" source="49Pb3ueh3Lf8uwbaWJGA-3" target="V820xGd8Vqgmo7R2v1ls-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
