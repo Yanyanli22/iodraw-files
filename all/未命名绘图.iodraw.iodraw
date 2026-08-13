@@ -25,6 +25,11 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-5" target="6B64W26EGXt8hSzSrjuo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-5" value="省联社SmartBI星沙租户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="350" width="185" height="60" as="geometry" />
         </mxCell>
