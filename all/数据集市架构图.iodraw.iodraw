@@ -275,7 +275,7 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-24" value="星沙星云家应用服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="570" y="660" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;" vertex="1" parent="1">
           <mxGeometry x="385" y="-290" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
