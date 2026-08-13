@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="izL_HhsHLJs7MzPscjLn" name="第 2 页">
-    <mxGraphModel dx="2327" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,7 +229,7 @@
           <mxGeometry x="1500" y="810" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
-          <mxGeometry x="1500" y="526" width="80" height="80" as="geometry" />
+          <mxGeometry x="1500" y="528" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
           <mxGeometry x="1510" y="600" width="60" height="30" as="geometry" />
@@ -253,7 +253,7 @@
           <mxGeometry x="69.2" y="580" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-16" value="移动端：福祥钉报表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-30" vertex="1">
-          <mxGeometry x="50.00000000000001" y="680" width="130" height="30" as="geometry" />
+          <mxGeometry x="50.00000000000001" y="660" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" parent="mv5Pw759SI3B3TMShwm7-30" vertex="1">
           <mxGeometry x="163.5" y="434" width="51" height="68" as="geometry" />
