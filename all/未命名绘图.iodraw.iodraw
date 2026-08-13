@@ -58,8 +58,8 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-17" value="PC端报表发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="408" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6B64W26EGXt8hSzSrjuo-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="6B64W26EGXt8hSzSrjuo-18" value="移动端报表发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="408" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
