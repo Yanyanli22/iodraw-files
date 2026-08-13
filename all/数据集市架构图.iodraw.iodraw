@@ -229,10 +229,10 @@
           <mxGeometry x="-130" y="168" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-29" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#f92424;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-160" width="720" height="780" as="geometry" />
+          <mxGeometry x="-800" y="-160" width="720" height="780" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="609" y="237" width="80" height="80" as="geometry" />
+          <mxGeometry x="539" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="615" y="71" width="50" height="89.29" as="geometry" />
