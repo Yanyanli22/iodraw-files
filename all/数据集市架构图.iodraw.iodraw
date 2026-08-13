@@ -129,17 +129,20 @@
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="224" y="457" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MFNvuZ_VL6IaNeynVgZf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-10" target="V820xGd8Vqgmo7R2v1ls-4">
+        <mxCell id="MFNvuZ_VL6IaNeynVgZf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="-100" as="sourcePoint" />
+            <mxPoint x="147" y="58" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="-50" />
-              <mxPoint x="160" y="50" />
-              <mxPoint x="148" y="50" />
+              <mxPoint x="162" y="-50" />
+              <mxPoint x="150" y="-50" />
+              <mxPoint x="150" y="50" />
+              <mxPoint x="147" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="106.4" y="-130" width="80" height="80" as="geometry" />
+          <mxGeometry x="115" y="-180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-11" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="840" y="-40" width="80" height="80" as="geometry" />
