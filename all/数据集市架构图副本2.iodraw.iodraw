@@ -263,9 +263,6 @@
         <mxCell id="tsYduwB5a_ES3_OZQ24U-1" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
           <mxGeometry x="840" y="270" width="342" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="tsYduwB5a_ES3_OZQ24U-2" value="&lt;b&gt;福祥数据云&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tsYduwB5a_ES3_OZQ24U-1" vertex="1">
-          <mxGeometry x="130" y="10" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="mv5Pw759SI3B3TMShwm7-74" vertex="1">
           <mxGeometry x="1510" y="727" width="80" height="80" as="geometry" />
         </mxCell>
@@ -322,6 +319,12 @@
           <mxGeometry x="-0.0062" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tsYduwB5a_ES3_OZQ24U-2" value="&lt;b&gt;福祥数据云&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-30" vertex="1">
+          <mxGeometry x="290" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2WEyo3FL__sWyYRYxv1w-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="mv5Pw759SI3B3TMShwm7-30" source="V820xGd8Vqgmo7R2v1ls-4" target="tsYduwB5a_ES3_OZQ24U-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="mv5Pw759SI3B3TMShwm7-74" source="49Pb3ueh3Lf8uwbaWJGA-3" target="V820xGd8Vqgmo7R2v1ls-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
