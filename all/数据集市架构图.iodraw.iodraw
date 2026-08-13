@@ -220,9 +220,6 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-2" target="mv5Pw759SI3B3TMShwm7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-110" y="204" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-4" target="MFNvuZ_VL6IaNeynVgZf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -274,6 +271,9 @@
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-29" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#f92424;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-730" y="-160" width="720" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
+          <mxGeometry x="609" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
