@@ -252,6 +252,9 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-17" value="星沙农商行本地内网环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-10">
           <mxGeometry x="50" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mv5Pw759SI3B3TMShwm7-15" target="mv5Pw759SI3B3TMShwm7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
