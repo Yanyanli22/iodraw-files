@@ -112,7 +112,7 @@
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="V820xGd8Vqgmo7R2v1ls-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="183" y="377" as="sourcePoint" />
+            <mxPoint x="180" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-26" value="报表发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="49Pb3ueh3Lf8uwbaWJGA-11">
