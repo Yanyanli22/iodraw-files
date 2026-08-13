@@ -78,6 +78,9 @@
             <mxPoint x="51" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-19" target="6B64W26EGXt8hSzSrjuo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="50" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-27" value="JDBC数据连接访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="258" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
