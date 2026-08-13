@@ -272,6 +272,9 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-62" value="调度服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="497" y="270" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-66" value="星沙星云家应用数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
+          <mxGeometry x="357" y="518" width="140" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry y="-150" width="900" height="780" as="geometry" />
         </mxCell>
