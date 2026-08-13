@@ -116,10 +116,10 @@
           <mxGeometry x="174.5" y="260" width="51" height="68" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
-          <mxGeometry x="90" y="370" width="44.8" height="80" as="geometry" />
+          <mxGeometry x="90" y="390" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="260" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="360" y="198" width="80" height="80" as="geometry" />
@@ -175,8 +175,10 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-8" value="堡垒机机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="180" y="120" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-6" target="V820xGd8Vqgmo7R2v1ls-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="V820xGd8Vqgmo7R2v1ls-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-16" value="移动端：福祥顶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="57.400000000000006" y="460" width="110" height="30" as="geometry" />
