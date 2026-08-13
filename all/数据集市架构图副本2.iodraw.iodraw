@@ -349,6 +349,18 @@
         <mxCell id="tsYduwB5a_ES3_OZQ24U-5" value="&lt;h2&gt;星云家系统&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-505" y="-157" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2WEyo3FL__sWyYRYxv1w-4" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="10" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2WEyo3FL__sWyYRYxv1w-5" value="&lt;b&gt;行业云&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2WEyo3FL__sWyYRYxv1w-4">
+          <mxGeometry x="140" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2WEyo3FL__sWyYRYxv1w-6" value="星沙星云家服务器集群&lt;br&gt;（国产）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2WEyo3FL__sWyYRYxv1w-4">
+          <mxGeometry x="210" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2WEyo3FL__sWyYRYxv1w-7" value="星沙星云家应用数据库&lt;br&gt;（国产）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2WEyo3FL__sWyYRYxv1w-4">
+          <mxGeometry x="27" y="345" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
