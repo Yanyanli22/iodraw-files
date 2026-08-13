@@ -275,6 +275,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-58" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="234" y="467" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
