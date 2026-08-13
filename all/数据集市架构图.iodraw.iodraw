@@ -99,8 +99,13 @@
         <mxCell id="V820xGd8Vqgmo7R2v1ls-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="V820xGd8Vqgmo7R2v1ls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="160" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
