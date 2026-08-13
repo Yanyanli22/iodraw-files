@@ -101,14 +101,14 @@
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="270" as="targetPoint" />
+            <mxPoint x="200" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="51" height="68" as="geometry" />
+          <mxGeometry x="180" y="240" width="51" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
