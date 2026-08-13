@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="izL_HhsHLJs7MzPscjLn" name="第 2 页">
-    <mxGraphModel dx="1667" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2927" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-35" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="mv5Pw759SI3B3TMShwm7-29" vertex="1">
-          <mxGeometry x="143" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="143" y="223" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="mv5Pw759SI3B3TMShwm7-29" vertex="1">
           <mxGeometry x="493" y="200" width="80" height="80" as="geometry" />
