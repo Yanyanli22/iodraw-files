@@ -15,14 +15,14 @@
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-16" value="JDBC数据连接访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6B64W26EGXt8hSzSrjuo-6">
           <mxGeometry x="-0.3264" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-2" value="大数据基础平台星沙法人行集市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="220" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-4" value="数据同步/推送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="100" height="30" as="geometry" />
+          <mxGeometry x="217.5" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-5" target="6B64W26EGXt8hSzSrjuo-7">
           <mxGeometry relative="1" as="geometry" />
