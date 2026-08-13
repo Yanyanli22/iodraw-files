@@ -275,6 +275,9 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-26" value="星云家PC端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="405" y="140" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mv5Pw759SI3B3TMShwm7-29" source="mv5Pw759SI3B3TMShwm7-35" target="MFNvuZ_VL6IaNeynVgZf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-35" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="100" y="440" width="80" height="80" as="geometry" />
         </mxCell>
