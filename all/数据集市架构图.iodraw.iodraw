@@ -210,6 +210,9 @@
             <mxPoint x="390" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-28" value="调度服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
