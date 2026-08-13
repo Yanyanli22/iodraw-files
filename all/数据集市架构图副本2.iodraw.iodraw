@@ -72,7 +72,7 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-27" value="JDBC数据连接访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="290" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OlDcAst4QUs5vJRC8Mv6-1" value="" style="swimlane;startSize=0;strokeColor=#100f0f;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="OlDcAst4QUs5vJRC8Mv6-1" value="" style="swimlane;startSize=0;strokeColor=#100f0f;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry y="60" width="640" height="500" as="geometry" />
         </mxCell>
       </root>
