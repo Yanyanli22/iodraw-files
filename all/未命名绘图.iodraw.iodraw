@@ -39,13 +39,8 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-11" value="星沙数据集市PC端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6B64W26EGXt8hSzSrjuo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-12" value="行内自研调度工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="225" width="100" height="50" as="geometry" />
+          <mxGeometry x="470" y="225" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
