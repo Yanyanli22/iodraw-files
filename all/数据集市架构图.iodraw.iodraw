@@ -118,7 +118,7 @@
           <mxGeometry x="174.5" y="260" width="51" height="68" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
-          <mxGeometry x="90" y="390" width="44.8" height="80" as="geometry" />
+          <mxGeometry x="60" y="390" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="80" height="80" as="geometry" />
