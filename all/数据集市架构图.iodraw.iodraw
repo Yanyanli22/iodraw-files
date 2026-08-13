@@ -97,7 +97,10 @@
           <mxGeometry x="380" y="100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V820xGd8Vqgmo7R2v1ls-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="46.5" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
