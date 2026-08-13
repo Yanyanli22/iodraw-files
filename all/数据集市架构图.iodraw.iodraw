@@ -153,11 +153,11 @@
           <mxGeometry x="95" y="235" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="95" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="49Pb3ueh3Lf8uwbaWJGA-6" target="49Pb3ueh3Lf8uwbaWJGA-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="91" as="sourcePoint" />
+            <mxPoint x="160" y="85" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
