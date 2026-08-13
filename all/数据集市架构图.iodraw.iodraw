@@ -348,6 +348,12 @@
         <mxCell id="tsYduwB5a_ES3_OZQ24U-5" value="&lt;h2&gt;星云家系统&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-505" y="-157" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tsYduwB5a_ES3_OZQ24U-6" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="342" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="tsYduwB5a_ES3_OZQ24U-7" value="&lt;b&gt;福祥数据云&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tsYduwB5a_ES3_OZQ24U-6">
+          <mxGeometry x="130" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
