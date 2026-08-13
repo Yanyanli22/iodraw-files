@@ -206,7 +206,7 @@
           <mxGeometry x="-760" y="-150" width="720" height="780" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="514" y="320" width="70" height="80" as="geometry" />
+          <mxGeometry x="503" y="320" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="mv5Pw759SI3B3TMShwm7-29" source="MFNvuZ_VL6IaNeynVgZf-4" target="MFNvuZ_VL6IaNeynVgZf-2">
           <mxGeometry relative="1" as="geometry" />
@@ -230,14 +230,11 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-16" value="星沙办公网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="110" y="673" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mv5Pw759SI3B3TMShwm7-29">
+        <mxCell id="mv5Pw759SI3B3TMShwm7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mv5Pw759SI3B3TMShwm7-29" source="mv5Pw759SI3B3TMShwm7-35" target="mv5Pw759SI3B3TMShwm7-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215.99999999999977" y="260" as="sourcePoint" />
-            <mxPoint x="493" y="236" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="356" y="260" />
-              <mxPoint x="356" y="240" />
-              <mxPoint x="493" y="240" />
+              <mxPoint x="363" y="260" />
+              <mxPoint x="363" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -282,7 +279,7 @@
           <mxGeometry x="478" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="500" y="196" width="80" height="80" as="geometry" />
+          <mxGeometry x="493" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-58" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="497" y="590" width="80" height="80" as="geometry" />
@@ -295,6 +292,9 @@
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-67" value="星沙堡垒机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="123" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-65" value="星云家pc端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
+          <mxGeometry x="497" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry y="-150" width="900" height="780" as="geometry" />
@@ -333,9 +333,6 @@
           <mxGeometry x="-0.734" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-65" value="星云家pc端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="448" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
