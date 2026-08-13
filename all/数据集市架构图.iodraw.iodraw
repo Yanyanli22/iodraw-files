@@ -121,7 +121,7 @@
           <mxGeometry x="224" y="457" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-6" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="20" width="270" height="550" as="geometry" />
+          <mxGeometry x="590" width="270" height="570" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="105" y="305" width="60" height="30" as="geometry" />
@@ -132,7 +132,7 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-13" value="星沙办公网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="100" y="510" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-19" value="星沙农商行本地内网环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-19" value="&lt;b&gt;星沙农商行本地内网环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.049;exitY=0.879;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-6" target="V820xGd8Vqgmo7R2v1ls-8">
