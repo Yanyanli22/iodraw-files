@@ -345,6 +345,9 @@
         <mxCell id="tsYduwB5a_ES3_OZQ24U-1" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
           <mxGeometry x="820" y="250" width="340" height="590" as="geometry" />
         </mxCell>
+        <mxCell id="tsYduwB5a_ES3_OZQ24U-2" value="福祥数据云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="8" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
