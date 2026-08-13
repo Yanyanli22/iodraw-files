@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="izL_HhsHLJs7MzPscjLn" name="第 2 页">
-    <mxGraphModel dx="2140" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3452" dy="2714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,7 @@
           <mxGeometry x="380" y="270" width="350" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tsYduwB5a_ES3_OZQ24U-7" value="&lt;b&gt;行业云&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tsYduwB5a_ES3_OZQ24U-6" vertex="1">
-          <mxGeometry x="145" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-23" value="星沙星云家服务器集群&lt;br&gt;（国产）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tsYduwB5a_ES3_OZQ24U-6" vertex="1">
           <mxGeometry x="210" y="245" width="140" height="40" as="geometry" />
