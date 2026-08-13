@@ -275,13 +275,8 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-24" value="星沙星云家应用服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="570" y="660" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mv5Pw759SI3B3TMShwm7-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="-60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1" y="-2" width="900" height="622" as="geometry" />
+          <mxGeometry x="1" y="-160" width="900" height="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
