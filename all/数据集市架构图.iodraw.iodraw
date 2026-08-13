@@ -122,6 +122,9 @@
         <mxCell id="V820xGd8Vqgmo7R2v1ls-11" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="560" y="228" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UEhg7XNukULp1xk8MtKE-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="46.5" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
