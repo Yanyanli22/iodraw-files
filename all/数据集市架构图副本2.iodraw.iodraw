@@ -347,7 +347,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2WEyo3FL__sWyYRYxv1w-8" value="" style="swimlane;startSize=0;dashed=1;strokeColor=#050505;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
-          <mxGeometry x="380" y="466" width="370" height="354" as="geometry" />
+          <mxGeometry x="380" y="440" width="370" height="380" as="geometry" />
         </mxCell>
         <mxCell id="tsYduwB5a_ES3_OZQ24U-5" value="&lt;h2&gt;星云家系统&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-505" y="-157" width="110" height="60" as="geometry" />
