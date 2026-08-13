@@ -212,13 +212,10 @@
           <mxGeometry x="510" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="520" y="570" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="mv5Pw759SI3B3TMShwm7-29" source="MFNvuZ_VL6IaNeynVgZf-4" target="MFNvuZ_VL6IaNeynVgZf-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="550" y="140" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-24" value="星沙星云家应用服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="510" y="680" width="140" height="30" as="geometry" />
+          <mxGeometry x="540" y="230" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="110" y="20" width="80" height="80" as="geometry" />
@@ -236,14 +233,11 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-16" value="星沙办公网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="110" y="100.00000000000003" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mv5Pw759SI3B3TMShwm7-29" source="mv5Pw759SI3B3TMShwm7-35" target="MFNvuZ_VL6IaNeynVgZf-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-35" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="100" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-23" value="星沙星云家服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="560" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="490" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="393" y="230" width="80" height="80" as="geometry" />
