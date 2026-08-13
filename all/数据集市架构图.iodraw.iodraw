@@ -126,12 +126,6 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="105" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="110" y="437" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-13" value="星沙办公网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="100" y="510" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-19" value="&lt;b&gt;星沙农商行本地内网环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="50" width="160" height="30" as="geometry" />
         </mxCell>
@@ -334,7 +328,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-74" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="-250" width="1780" height="960" as="geometry" />
+          <mxGeometry x="-810" y="-270" width="1780" height="960" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-17" value="星沙农商行本地内网环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
           <mxGeometry x="153" y="280" width="160" height="30" as="geometry" />
@@ -347,6 +341,12 @@
         </mxCell>
         <mxCell id="tsYduwB5a_ES3_OZQ24U-2" value="&lt;b&gt;福祥数据云&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tsYduwB5a_ES3_OZQ24U-1">
           <mxGeometry x="112.5" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
+          <mxGeometry x="1510" y="727" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-13" value="星沙办公网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
+          <mxGeometry x="1500" y="810" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
