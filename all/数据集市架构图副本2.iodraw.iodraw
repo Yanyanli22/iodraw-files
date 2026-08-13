@@ -66,29 +66,11 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-18" value="移动端报表发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="75" y="408" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6B64W26EGXt8hSzSrjuo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6B64W26EGXt8hSzSrjuo-19" target="6B64W26EGXt8hSzSrjuo-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="332" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="565" y="355" />
-              <mxPoint x="565" y="350" />
-              <mxPoint x="680" y="350" />
-              <mxPoint x="680" y="320" />
-              <mxPoint x="610" y="320" />
-              <mxPoint x="610" y="334" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6B64W26EGXt8hSzSrjuo-30" value="JDBC数据连接访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6B64W26EGXt8hSzSrjuo-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.0265" y="-1" relative="1" as="geometry">
-            <mxPoint x="51" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-20" value="星云家数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="400" width="120" height="47" as="geometry" />
+          <mxGeometry x="600" y="333" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-27" value="JDBC数据连接访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="130" height="30" as="geometry" />
