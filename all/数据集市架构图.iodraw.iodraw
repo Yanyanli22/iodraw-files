@@ -256,7 +256,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-23" value="星沙星云家服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="168" width="120" height="30" as="geometry" />
+          <mxGeometry x="-130" y="168" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="518" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
