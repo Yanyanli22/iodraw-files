@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="400" y="330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-20" value="星云家数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="361" width="120" height="47" as="geometry" />
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="izL_HhsHLJs7MzPscjLn" name="第 2 页">
-    <mxGraphModel dx="2062" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2927" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
