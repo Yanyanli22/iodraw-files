@@ -272,9 +272,6 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-26" value="星云家PC端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-365" y="378" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-28" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-29" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#f92424;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-730" y="-160" width="720" height="780" as="geometry" />
         </mxCell>
