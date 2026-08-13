@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-16" value="JDBC数据连接访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6B64W26EGXt8hSzSrjuo-6">
           <mxGeometry x="-0.3264" y="2" relative="1" as="geometry">
-            <mxPoint x="43" as="offset" />
+            <mxPoint x="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-2" target="6B64W26EGXt8hSzSrjuo-19">
