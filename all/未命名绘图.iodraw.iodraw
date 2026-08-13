@@ -69,7 +69,7 @@
           <mxGeometry x="75" y="408" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="248" width="120" height="50" as="geometry" />
+          <mxGeometry x="460" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-20" value="星云家数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="391" width="120" height="47" as="geometry" />
