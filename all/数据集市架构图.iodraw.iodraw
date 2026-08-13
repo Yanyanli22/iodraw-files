@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="51" height="68" as="geometry" />
+          <mxGeometry x="174.5" y="260" width="51" height="68" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="44.8" height="80" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry x="385" y="108" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-22" value="TDSQL_法人行数据集市数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="158" width="190" height="30" as="geometry" />
+          <mxGeometry x="101" y="160" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
