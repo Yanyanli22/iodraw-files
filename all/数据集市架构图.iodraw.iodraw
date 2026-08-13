@@ -123,9 +123,6 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-6" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" width="270" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="105" y="305" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-19" value="&lt;b&gt;星沙农商行本地内网环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="50" width="160" height="30" as="geometry" />
         </mxCell>
@@ -338,7 +335,10 @@
           <mxGeometry x="1500" y="810" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
-          <mxGeometry x="1500" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="1500" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
+          <mxGeometry x="1510" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="49Pb3ueh3Lf8uwbaWJGA-2" target="49Pb3ueh3Lf8uwbaWJGA-3">
           <mxGeometry relative="1" as="geometry">
