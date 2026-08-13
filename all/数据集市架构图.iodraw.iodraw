@@ -260,9 +260,6 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-65" value="星云家pc端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="503" y="660" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-33" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;星云家系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="291" y="10" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-34" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;经营日报系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="415" y="-142" width="130" height="30" as="geometry" />
         </mxCell>
