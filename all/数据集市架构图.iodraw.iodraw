@@ -145,11 +145,11 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-7" value="跳板机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="40" y="150" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
+          <mxGeometry x="70" y="370" width="50" height="37" as="geometry" />
+        </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-8" value="堡垒机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="168" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
