@@ -68,6 +68,11 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-18" value="移动端报表发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="408" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-19" target="6B64W26EGXt8hSzSrjuo-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="50" as="geometry" />
         </mxCell>
