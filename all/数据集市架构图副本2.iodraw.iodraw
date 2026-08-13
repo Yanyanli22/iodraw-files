@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="246" y="457" width="80" height="80" as="geometry" />
+          <mxGeometry x="246" y="463" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-6" value="" style="swimlane;startSize=0;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="590" width="270" height="600" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="50" y="9" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-17" value="PC端：数据集市" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="225" y="527" width="110" height="30" as="geometry" />
+          <mxGeometry x="225" y="533" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-18" value="http访问web应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="470" width="110" height="30" as="geometry" />
