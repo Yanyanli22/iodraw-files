@@ -223,7 +223,7 @@
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-2" target="V820xGd8Vqgmo7R2v1ls-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="mv5Pw759SI3B3TMShwm7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mv5Pw759SI3B3TMShwm7-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-111" y="244" as="sourcePoint" />
             <mxPoint x="-251.4000000000001" y="290" as="targetPoint" />
@@ -241,10 +241,10 @@
           <mxGeometry x="-125" y="370" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
-          <mxGeometry x="-310" y="130" width="39.2" height="70" as="geometry" />
+          <mxGeometry x="-279.2" y="130" width="39.2" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-330.4" y="250" width="80" height="80" as="geometry" />
+          <mxGeometry x="-299.6" y="327" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.009;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-2" target="mv5Pw759SI3B3TMShwm7-1">
           <mxGeometry relative="1" as="geometry" />
