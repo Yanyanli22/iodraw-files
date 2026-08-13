@@ -73,6 +73,11 @@
             <mxPoint x="520" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-30" value="JDBC数据连接访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6B64W26EGXt8hSzSrjuo-29">
+          <mxGeometry x="-0.0265" y="-1" relative="1" as="geometry">
+            <mxPoint x="51" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="50" as="geometry" />
         </mxCell>
