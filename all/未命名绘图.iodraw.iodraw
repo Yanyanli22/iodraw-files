@@ -18,6 +18,9 @@
             <mxPoint x="43" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-2" target="6B64W26EGXt8hSzSrjuo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-2" value="大数据基础平台星沙法人行集市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="220" width="195" height="60" as="geometry" />
         </mxCell>
@@ -66,7 +69,7 @@
           <mxGeometry x="75" y="408" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="50" as="geometry" />
+          <mxGeometry x="460" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-20" value="星云家数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="391" width="120" height="47" as="geometry" />
