@@ -224,7 +224,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-130" y="204" width="80" height="80" as="geometry" />
+          <mxGeometry x="-110" y="204" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-4">
           <mxGeometry relative="1" as="geometry">
@@ -239,9 +239,6 @@
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-330.4" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-2" target="MFNvuZ_VL6IaNeynVgZf-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
