@@ -225,7 +225,7 @@
           <mxGeometry x="503" y="660" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-66" value="星沙星云家应用数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mv5Pw759SI3B3TMShwm7-29" vertex="1">
-          <mxGeometry x="358" y="505" width="140" height="30" as="geometry" />
+          <mxGeometry x="358" y="501" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mv5Pw759SI3B3TMShwm7-51" target="V820xGd8Vqgmo7R2v1ls-4" edge="1">
           <mxGeometry relative="1" as="geometry">
