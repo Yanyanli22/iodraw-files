@@ -24,7 +24,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-2" target="6B64W26EGXt8hSzSrjuo-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="230" />
+              <mxPoint x="395" y="230" />
+              <mxPoint x="395" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-2" value="大数据基础平台星沙法人行集市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="220" width="195" height="60" as="geometry" />
@@ -78,7 +84,7 @@
           <mxGeometry x="460" y="346.5" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-27" value="JDBC数据连接访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="130" height="30" as="geometry" />
+          <mxGeometry x="340" y="180" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
