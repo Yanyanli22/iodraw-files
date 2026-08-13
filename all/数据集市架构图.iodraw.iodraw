@@ -84,6 +84,11 @@
         <mxCell id="6B64W26EGXt8hSzSrjuo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-19" target="6B64W26EGXt8hSzSrjuo-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6B64W26EGXt8hSzSrjuo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6B64W26EGXt8hSzSrjuo-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6B64W26EGXt8hSzSrjuo-19" value="星沙星云家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="50" as="geometry" />
         </mxCell>
