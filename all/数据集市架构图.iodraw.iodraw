@@ -229,8 +229,11 @@
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-110" y="204" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFNvuZ_VL6IaNeynVgZf-4" target="MFNvuZ_VL6IaNeynVgZf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="-110" y="410" width="60" height="120" as="geometry" />
+          <mxGeometry x="-101" y="410" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
           <mxGeometry x="-310" y="120" width="39.2" height="70" as="geometry" />
