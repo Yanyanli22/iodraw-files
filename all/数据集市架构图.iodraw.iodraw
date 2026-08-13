@@ -311,8 +311,8 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-65" value="星云家pc端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-280" y="448" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-635" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="mv5Pw759SI3B3TMShwm7-67" value="星沙堡垒机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="148" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
