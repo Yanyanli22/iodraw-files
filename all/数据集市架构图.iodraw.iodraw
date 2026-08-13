@@ -268,7 +268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-30">
-          <mxGeometry x="160" y="22" width="80" height="80" as="geometry" />
+          <mxGeometry x="107" y="22" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-33" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 18px;&quot;&gt;星云家系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-485" y="-157" width="110" height="40" as="geometry" />
