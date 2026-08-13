@@ -94,10 +94,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V820xGd8Vqgmo7R2v1ls-1" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="100" width="60" height="60" as="geometry" />
+          <mxGeometry x="650" y="100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-4">
           <mxGeometry relative="1" as="geometry">
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="V820xGd8Vqgmo7R2v1ls-8" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="56" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
