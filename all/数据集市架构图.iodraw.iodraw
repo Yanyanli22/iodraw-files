@@ -209,7 +209,7 @@
           <mxGeometry x="-773" y="-150" width="720" height="780" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="520" y="570" width="60" height="120" as="geometry" />
@@ -246,7 +246,7 @@
           <mxGeometry x="560" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="510" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="393" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry y="-150" width="900" height="780" as="geometry" />
