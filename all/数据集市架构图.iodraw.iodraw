@@ -281,6 +281,9 @@
         <mxCell id="mv5Pw759SI3B3TMShwm7-33" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 18px;&quot;&gt;星云家系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-485" y="-157" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-142" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
