@@ -101,7 +101,7 @@
             <mxPoint x="200" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="195" />
-              <mxPoint x="201" y="300" />
+              <mxPoint x="201" y="357" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="160" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="58" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="V820xGd8Vqgmo7R2v1ls-9">
           <mxGeometry relative="1" as="geometry">
