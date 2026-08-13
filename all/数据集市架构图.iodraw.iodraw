@@ -147,13 +147,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-6" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="30" width="270" height="550" as="geometry" />
+          <mxGeometry x="580" y="35" width="270" height="550" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="30" y="51" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="165" y="51" width="80" height="80" as="geometry" />
+          <mxGeometry x="95" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="49Pb3ueh3Lf8uwbaWJGA-6" target="49Pb3ueh3Lf8uwbaWJGA-3">
           <mxGeometry relative="1" as="geometry">
