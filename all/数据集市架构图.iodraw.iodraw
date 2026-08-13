@@ -206,10 +206,10 @@
           <mxGeometry x="-773" y="-150" width="720" height="780" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="510" y="300" width="70" height="80" as="geometry" />
+          <mxGeometry x="510" y="510" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MFNvuZ_VL6IaNeynVgZf-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="550" y="140" width="60" height="120" as="geometry" />
+          <mxGeometry x="520" y="614" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-24" value="星沙星云家应用服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="540" y="230" width="140" height="30" as="geometry" />
@@ -234,10 +234,10 @@
           <mxGeometry x="100" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-23" value="星沙星云家服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="490" y="380" width="120" height="30" as="geometry" />
+          <mxGeometry x="490" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="393" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-30" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#ec0e0e;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry y="-150" width="900" height="780" as="geometry" />
