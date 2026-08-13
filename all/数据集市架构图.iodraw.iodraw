@@ -139,6 +139,9 @@
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="470" y="90" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-6" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="260" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
