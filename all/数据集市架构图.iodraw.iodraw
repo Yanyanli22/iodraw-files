@@ -150,7 +150,7 @@
           <mxGeometry x="580" y="35" width="270" height="550" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="80" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="95" y="235" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="95" y="30" width="80" height="80" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="50" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-20" value="远程访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
-          <mxGeometry x="95" y="59" width="70" height="30" as="geometry" />
+          <mxGeometry x="95" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-8" value="堡垒机机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="49Pb3ueh3Lf8uwbaWJGA-6">
           <mxGeometry x="180" y="120" width="80" height="30" as="geometry" />
