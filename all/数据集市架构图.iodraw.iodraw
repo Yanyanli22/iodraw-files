@@ -173,9 +173,6 @@
             <mxRectangle x="-740" y="110" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-17" value="星沙农商行本地内网环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-10">
-          <mxGeometry x="50" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-29" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;strokeColor=#f92424;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-150" width="720" height="780" as="geometry" />
         </mxCell>
@@ -336,6 +333,9 @@
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-74" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-810" y="-270" width="1780" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="mv5Pw759SI3B3TMShwm7-17" value="星沙农商行本地内网环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-74">
+          <mxGeometry x="153" y="280" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
