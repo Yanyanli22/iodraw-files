@@ -104,6 +104,9 @@
         <mxCell id="V820xGd8Vqgmo7R2v1ls-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V820xGd8Vqgmo7R2v1ls-6" target="V820xGd8Vqgmo7R2v1ls-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="51" height="68" as="geometry" />
         </mxCell>
@@ -111,7 +114,7 @@
           <mxGeometry x="90" y="370" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="260" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="414" y="273" width="80" height="80" as="geometry" />
