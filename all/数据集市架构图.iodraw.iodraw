@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-16" value="移动端：福祥顶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10.400000000000006" y="527" width="110" height="30" as="geometry" />
+          <mxGeometry x="-8.999999999999993" y="527" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-17" value="PC端：数据集市" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="203" y="527" width="110" height="30" as="geometry" />
