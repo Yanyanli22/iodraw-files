@@ -160,7 +160,7 @@
           <mxGeometry x="393" y="400" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="mv5Pw759SI3B3TMShwm7-29" vertex="1">
-          <mxGeometry x="120" y="590" width="80" height="80" as="geometry" />
+          <mxGeometry x="128" y="590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mv5Pw759SI3B3TMShwm7-29" source="mv5Pw759SI3B3TMShwm7-15" target="mv5Pw759SI3B3TMShwm7-58" edge="1">
           <mxGeometry relative="1" as="geometry">
