@@ -114,7 +114,7 @@
           <mxGeometry x="90" y="370" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-10" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
           <mxGeometry x="414" y="273" width="80" height="80" as="geometry" />
@@ -167,6 +167,9 @@
         </mxCell>
         <mxCell id="49Pb3ueh3Lf8uwbaWJGA-16" value="移动端：福祥顶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="57.400000000000006" y="460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="49Pb3ueh3Lf8uwbaWJGA-17" value="PC端：数据集市" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="458" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
