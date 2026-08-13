@@ -212,8 +212,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mv5Pw759SI3B3TMShwm7-23" value="星沙星云家服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
-          <mxGeometry x="477" y="390" width="120" height="30" as="geometry" />
+        <mxCell id="mv5Pw759SI3B3TMShwm7-23" value="星沙星云家服务器（国产）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
+          <mxGeometry x="452" y="390" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv5Pw759SI3B3TMShwm7-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="mv5Pw759SI3B3TMShwm7-29">
           <mxGeometry x="493" y="200" width="80" height="80" as="geometry" />
