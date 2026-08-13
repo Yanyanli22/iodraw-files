@@ -114,7 +114,7 @@
           <mxGeometry x="90" y="370" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V820xGd8Vqgmo7R2v1ls-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="370" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
